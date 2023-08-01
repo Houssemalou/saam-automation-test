@@ -1,0 +1,1 @@
+# samm-automation-test
