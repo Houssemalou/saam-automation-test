@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#update{
+    margin-top: 10%;
+}
+.row{
+    height: 350px;
+}
